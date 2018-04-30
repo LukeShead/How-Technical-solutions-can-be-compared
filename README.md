@@ -4,7 +4,10 @@ There are many ways to compare technical solutions to problems that occur during
 
 Technical solutions are compared in order to find out what solutions will be best suited for it's purpose, for example a solution that requires a solution for speed will be compared in order to see which one is the fastest. As well as this they also have to be compared against system and user requirements to make sure they are compatible with them, doing this allows the solutions to be compared and prioritised into most effective and least effective when viewed with other solutions.
 
-### What is effective analysis
+### How is it compared?
+Technical solutions can be compared through their fitness of purpose, by looking at the problem and what the solution is meant to be, you can see how well it fits the purpose of the solution. Maturity is also looked at when comparing solutions, by looking about how established it is as a solution, this means how well is this solution known and is it reliable. The final comparison that is used is the support of the solution, the costs, reliability, availability and the scalability are all factors that are used in order to compare the different solutions and find the best one.
+
+### What is effective analysis?
 
 Effective analysis is where a problem is used as a starting point to have teams look into solutions based on many different factors, these factors include time, cost, security and reliabilty as well as many more.  The qualities of the solution are split into non-functional and functional, non-funtional qualities will include maintainability and safety whereas functional qualities will derive from the systems purpose. The solution will only be offered based on the products functions as it will mean that the solutions will be more effective.
 
